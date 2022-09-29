@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
-## My project information is within the "Earthquake_Challenge" folder.
-## Other maps are included in different branches of this git page
+ My project information is within the "Earthquake_Challenge" folder.
+ Other maps are included in different branches of this git page
 
 ### Struggles
 
